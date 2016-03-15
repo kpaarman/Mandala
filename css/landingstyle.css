@@ -55,6 +55,20 @@ hr {
 	border: none;
 }
 
+#testimBlock {
+	/*border: 5px solid black;
+	border-radius: 15px;
+	background-color: white;*/
+}
+
+.testim {
+	color: #393939;
+	font-size: 18.5px;
+	text-shadow: none;
+	font-style: italic;
+	border: none;
+}
+
 .logo2 {
 	padding-left: 140px;
 	width: 250px;
