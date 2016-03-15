@@ -43,13 +43,16 @@ hr {
 }
 
 #aboutblock {
-	border: 5px solid black;
+	/*border: 5px solid black;
 	border-radius: 15px;
-	background-color: white;
+	background-color: white;*/
 }
 
 .aboutlinda {
-	color: black;
+	color: #393939;
+	font-size: 15.5px;
+	text-shadow: none;
+	border: none;
 }
 
 .logo2 {
